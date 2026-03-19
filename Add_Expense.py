@@ -142,4 +142,5 @@ def open_Add_window(username):
     total_label.pack(pady=10)
 
     update_total()
+    # test comment
     
